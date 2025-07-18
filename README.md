@@ -53,4 +53,15 @@ Follow these steps to get the application up and running:
 
 
 
+**Authors**
+
+<img width="1893" height="854" alt="image" src="https://github.com/user-attachments/assets/1cdfdc2f-cf34-4c77-bd0f-eae003e151e3" />
+
+
+**Books**
+
+
+<img width="1882" height="856" alt="image" src="https://github.com/user-attachments/assets/76bddfa5-5d8f-4ca1-8b42-eb4fdc3e0acd" />
+
+
 
